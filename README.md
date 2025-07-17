@@ -1,16 +1,14 @@
-## Hi there 👋
+# FFRAJESPORTS
 
-<!--
-**FFRAJESPORTS/FFRAJESPORTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Welcome to the official Free Fire tournament platform powered by FFRAJESPORTS! 🔥
 
-Here are some ideas to get you started:
+## 🏆 What We Offer
+- Daily and weekly Free Fire tournaments
+- Real-time leaderboard and match tracking
+- Win rewards, diamonds, and glory!
+- Fair and competitive esports environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📲 Coming Soon
+Stay tuned for our mobile app and website!
+
+Follow us on social media for updates 🚀
